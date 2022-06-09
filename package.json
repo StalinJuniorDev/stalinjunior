@@ -1,0 +1,16 @@
+{
+  "name": "stalinjunior",
+  "version": "1.0.1",
+  "description": "Stalin Junior Development Official site",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stalin Junior Development",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "node-fetch": "^2.6.7"
+  }
+}
